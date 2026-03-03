@@ -1,0 +1,5 @@
+{
+  "name": "MoneyFlow Tracker",
+  "description": "A personal finance tracking app that simulates reading bank/UPI transaction SMS notifications to automatically log and categorize expenses.",
+  "requestFramePermissions": []
+}
